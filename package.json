@@ -1,6 +1,6 @@
 {
   "name": "fsbrowse",
-  "version": "0.2.33",
+  "version": "0.2.34",
   "description": "Minimal HTTP file server - standalone or embeddable Express middleware",
   "main": "index.js",
   "private": false,
